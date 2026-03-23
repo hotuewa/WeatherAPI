@@ -36,9 +36,8 @@ Prosta, ale zbudowana zgodnie z dobrymi praktykami aplikacja Full-Stack do spraw
 ### Krok 1: Klonowanie repozytorium
 Otwórz terminal i pobierz projekt na swój komputer:
 ```bash
-git clone [https://github.com/TwojLogin/WeatherDashboard.git](https://github.com/TwojLogin/WeatherDashboard.git)
+git clone [https://github.com/hotuewa/WeatherAPI.git](https://github.com/hotuewa/WeatherAPI.git)
 ```
-*(Przed skopiowaniem zmień link na swój własny!)*
 
 ### Krok 2: Uruchomienie Backendu (.NET)
 1. Otwórz plik rozwiązania `WeatherDashboard.sln` w programie **Visual Studio**.
