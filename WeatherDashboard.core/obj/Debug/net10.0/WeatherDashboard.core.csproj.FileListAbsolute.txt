@@ -1,0 +1,11 @@
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\bin\Debug\net10.0\WeatherDashboard.core.deps.json
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\bin\Debug\net10.0\WeatherDashboard.core.dll
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\bin\Debug\net10.0\WeatherDashboard.core.pdb
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.GeneratedMSBuildEditorConfig.editorconfig
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.AssemblyInfoInputs.cache
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.AssemblyInfo.cs
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.csproj.CoreCompileInputs.cache
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.dll
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\refint\WeatherDashboard.core.dll
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\WeatherDashboard.core.pdb
+X:\WeatherDashboard\WeatherDashboard\WeatherDashboard.core\obj\Debug\net10.0\ref\WeatherDashboard.core.dll

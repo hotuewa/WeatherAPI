@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WeatherDashboard.Api/WeatherDashboard.Api.csproj" />
+  <Project Path="WeatherDashboard.core/WeatherDashboard.core.csproj" />
+</Solution>
